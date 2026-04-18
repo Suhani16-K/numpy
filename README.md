@@ -1,2 +1,2 @@
 # numpy
-learning process 
+learning process with Bingo 
